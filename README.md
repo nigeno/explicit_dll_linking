@@ -1,2 +1,3 @@
-# explicit_dll_linking
-Explicit Linking of DLL
+# Explicit Linking of DLL
+
+https://www.youtube.com/watch?v=Abbpd-ONSbU
